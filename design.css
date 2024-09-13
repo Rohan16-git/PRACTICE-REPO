@@ -19,3 +19,8 @@
 .apply-color1{
     color: cyan;
 }
+p{
+    color: hotpink;
+    font-size: 36px;
+    text-decoration: dashed;
+}
