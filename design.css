@@ -24,3 +24,75 @@ p{
     font-size: 36px;
     text-decoration: dashed;
 }
+.op{
+    color: darkorchid;
+    text-decoration: dotted;
+    text-transform: lowercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#n1{
+    color: forestgreen;
+    text-transform: uppercase;
+    text-decoration: overline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    text-decoration: dotted;
+    background-color: burlywood;
+}
+/*{
+    background-image: url(./Images/140620201029364ov5.jpg);
+    background-repeat: no-repeat;}*/
+
+.float-image{
+    float: left;        /* Floats the image to the left */
+    margin-right: 15px; /* Adds some space between the image and the text */
+    width: 350px;       /* Sets a fixed width for the image */
+    height: auto;       /* Maintains aspect ratio */
+}
+
+.colorp{
+
+    color:white;
+    font-family : fantasy;
+    font-size: large;
+}
+
+.float-image1{
+    float:right;        /* Floats the image to the left */
+    margin-right: 15px; /* Adds some space between the image and the text */
+    width: 200px;       /* Sets a fixed width for the image */
+    height: auto;       /* Maintains aspect ratio */
+} 
+
+.color{
+    color: white;
+    text-decoration: underline;
+    background-image:url(Image/140620201029364ov5.jpg);
+    margin-top:10px;   /*SPACING BETW TOP AND BOTTOM*/
+    margin-bottom: 10px;
+    word-spacing: 10px;  /* SPACING BETWEEN WORDS*/
+    text-align: center;
+    letter-spacing: 6px;
+}
+.color-table{
+
+    color:white;
+    font-family: fantasy;
+    background-color: black;
+}
+.padding{
+    padding: 60;
+}
+body{
+    background-color:lightcoral;
+}
+.color2{
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+}    
